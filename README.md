@@ -1,4 +1,4 @@
-#CLICKY GAME
+# CLICKY GAME
 
 * A new React application using Create React App.
 * Emojis image listen for click events.
