@@ -1,65 +1,65 @@
 [
   {
     "id": 1,
-    "image": "/images/Confounded_Face_Emoji_large.png"
+    "image": "./images/Confounded_Face_Emoji_large.png"
   },
   {
     "id": 2,
-    "image": "/images/Emoji_Face_without_Mouth_large.png"
+    "image": "./images/Emoji_Face_without_Mouth_large.png"
   },
   {
     "id": 3,
-    "image": "/images/Face_With_Head-Bandage_Emoji_large.png"
+    "image": "./images/Face_With_Head-Bandage_Emoji_large.png"
   },
   {
     "id": 4,
-    "image": "/images/Heart_Eyes_Emoji_large.png"
+    "image": "./images/Heart_Eyes_Emoji_large.png"
   },
   {
     "id": 5,
-    "image": "/images/Hugging_Face_Emoji_2028ce8b-c213-4d45-94aa-21e1a0842b4d_large.png"
+    "image": "./images/Hugging_Face_Emoji_2028ce8b-c213-4d45-94aa-21e1a0842b4d_large.png"
   },
   {
     "id": 6,
-    "image": "/images/Loudly_Crying_Face_Emoji_large.png"
+    "image": "./images/Loudly_Crying_Face_Emoji_large.png"
   },
   {
     "id": 7,
-    "image": "/images/Nerd_with_Glasses_Emoji_2a8485bc-f136-4156-9af6-297d8522d8d1_large.png"
+    "image": "./images/Nerd_with_Glasses_Emoji_2a8485bc-f136-4156-9af6-297d8522d8d1_large.png"
   },
   {
     "id": 8,
-    "image": "/images/Sick_Emoji_large.png"
+    "image": "./images/Sick_Emoji_large.png"
   },
   {
     "id": 9,
-    "image": "/images/Slightly_Smiling_Face_Emoji_87fdae9b-b2af-4619-a37f-e484c5e2e7a4_large.png"
+    "image": "./images/Slightly_Smiling_Face_Emoji_87fdae9b-b2af-4619-a37f-e484c5e2e7a4_large.png"
   },
   {
     "id": 10,
-    "image": "/images/Smiling_Face_with_Halo_large.png"
+    "image": "./images/Smiling_Face_with_Halo_large.png"
   },
   {
     "id": 11,
-    "image": "/images/Thinking_Face_Emoji_large.png"
+    "image": "./images/Thinking_Face_Emoji_large.png"
   },
   {
     "id": 12,
-    "image": "/images/Unamused_Face_Emoji_761d8bf8-c78c-45b1-80b1-a86a80d2452d_large.png"
+    "image": "./images/Unamused_Face_Emoji_761d8bf8-c78c-45b1-80b1-a86a80d2452d_large.png"
   },
   {
     "id": 13,
-    "image": "/images/Very_Angry_Emoji_7f7bb8df-d9dc-4cda-b79f-5453e764d4ea_large.png"
+    "image": "./images/Very_Angry_Emoji_7f7bb8df-d9dc-4cda-b79f-5453e764d4ea_large.png"
 
   },
   {
     "id": 14,
-    "image": "/images/Very_Mad_Emoji_large.png"
+    "image": "./images/Very_Mad_Emoji_large.png"
 
   },
   {
     "id": 15,
-    "image": "/images/Zipper-Mouth_Face_Emoji_large.png"
+    "image": "./images/Zipper-Mouth_Face_Emoji_large.png"
 
   }
 ]
