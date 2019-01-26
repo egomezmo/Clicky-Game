@@ -1,0 +1,9 @@
+img {
+    width: 120px;
+}
+
+.card{
+    float:left;
+    padding:30px;
+    background: #F9E79F;
+}
